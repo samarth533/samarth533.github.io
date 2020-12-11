@@ -1,0 +1,57 @@
+*{
+      margin: 0px;
+      padding: 0px;
+}
+
+body{
+      background-color: peachpuff;
+      padding: 1rem;
+      margin: 1rem;
+      text-align: center;
+}
+
+.light{
+      background-color: lightcoral;
+     
+}
+
+.dark
+{
+      background-color: rgb(238, 62, 62);
+     
+}
+
+.item
+{
+      font-size: 6rem;
+      color: darkslategray;
+}
+
+.container
+{
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+}
+
+/* 
+h1{
+    color: white;
+      text-align: center;
+  }
+  .secondheading
+  {font-size: 80px;
+        color: teal;
+        text-align: left;
+        border: 2px white dashed;
+        margin: 1rem;
+        padding: 3px 4px;
+        border-radius: 1rem 0rem;
+        
+  }
+
+body
+{     background-color: black;
+      font-size: 1rem;
+      color: white;
+      font-family: 'Courier New', Courier, monospace;
+} */
