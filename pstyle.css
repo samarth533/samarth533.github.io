@@ -1,0 +1,66 @@
+body
+{
+    margin: 0px;
+    padding: 0px;
+    background-color: rgb(201, 202, 198);
+    font-family: 'Poppins', sans-serif;
+
+}
+
+h1{
+    margin: 0px;
+    font-weight: 400;
+}
+
+h2{
+    margin: 0px;
+    font-weight: 400;
+    display: inline;
+}
+
+.box
+{
+    background-color: white;
+    width: 50rem;
+    padding: 3rem;
+    margin: 1rem auto ;
+    border-radius: 0.5rem;
+}
+
+.Header
+{
+    display: grid;
+    grid-template-columns: 40% 60%;
+}
+
+.LHeader
+{
+    display: grid;
+    justify-items: center;
+    align-items: center;
+    font-size: 2rem;
+}
+
+.first-name{
+    font-weight: 400;
+    margin: 0px;
+}
+.last-name{
+    font-weight: 200;
+    margin: 0px;
+}
+.RHeader
+{width: 100%;
+    display: grid;
+    justify-items: end;
+}
+
+.RHeader p{
+    display: inline ;
+}
+
+.icon
+{
+    color: grey;
+        
+}
